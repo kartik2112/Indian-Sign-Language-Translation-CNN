@@ -4,10 +4,17 @@ This was trained from my dataset: [Kaggle | Indian Sign Language Translation Let
 
 This dataset has 10 digits and 23 out of the 26 letters of the alphabet.
 
-A CNN was trained on this dataset and an accuracy of 97.16%. 
+A CNN was trained on this dataset and an accuracy of 98.14% on unseen test dataset. 
 
-<img src='https://ibb.co/c2jKbDV'/>
+## Model
 
+<img src='README_images/model.png'/>
+
+## Results
+
+<img src='README_images/confusion_matrix.png'/>
+
+## Dataset Samples
 <img src='https://www.kaggleusercontent.com/kf/34925442/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..GerclpElXHdOtC7vvxdEww.AYGQTbn1TgjNVI_IGP-6LzozPiFi_DzT-scrfRv3NL_HdRCTm89FDFjfJv7rE_SnvFY0JGLcvDWEyM3Uwutiu7FAgg98Y5dl5jNvUp0QbB7-vTkuK2RPUAclEAOV8GKnqXSbH3Tfd2ftmw_snVMCuqzv07Zi9ugxWt5UkAW-D6Y0tpd_K9p04RTqvl_8jGNvo3YMjIY8x7Ddf3o3XCxgquYmScuHc3_1yaoVVbRTlcvsIESNz1iqYUukJ262fCdDJl460Zk3YmPMOyrVa92T3ZjHsl0QnSM1X2vjFMWZlIMLLCuTZvQjAWHTOToQeYVBuNBaA08bCH0aupHluC0XD9FGSaFr8G_QTGnt77qHXTMLDYB3smvXqQum_UYUm9eDU3EcWwXWlcLCq8UigbIcQPbGRQp-13kyebTDl48uwCr5c_7ymVjcFyc9QrlevVyA6FA58sxY7TMtha9-1NId-CI_vH8fvjj1tUniK8rBnwdXfOdG35I6bA0gbNtr_J82DlOGR02NtKxWFF1DoJUuz7a1u-WC7s34rGGZBevZqkNNI4ohooiaNeweKMmPmycNbj1bf9oAV6BFuIrzo2sqawhDsdCVYqJ3ajqxe6_lOySYwOpJpB1L9uBPReN929U_N0nZoUv19Z9bqRKpiaEk4KhHfnvDGbxA2x2Uo_A0CHs.ZusxDqROKIcVQtFhx2G9JA/__results___files/__results___13_0.png' />
 
 Few classes of the dataset had images similar to these:
