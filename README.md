@@ -4,7 +4,7 @@ This was trained from my dataset: [Kaggle | Indian Sign Language Translation Let
 
 This dataset has 10 digits and 23 out of the 26 letters of the alphabet.
 
-A CNN was trained on this dataset and an accuracy of 98.14% on unseen test dataset. 
+A CNN was trained on this dataset and an accuracy of 98.14% was observed on unseen test dataset. 
 
 ## Model
 
