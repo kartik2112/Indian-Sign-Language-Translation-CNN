@@ -22,3 +22,7 @@ Few classes of the dataset had images similar to these:
 <img src='README_images/Digit 1 Samples.png'>
 <img src='README_images/Letter b Samples.png'>
 <img src='README_images/Letter d Samples.png'>
+
+## Links
+
+* [Kaggel Kernel | Kartik Shenoy | Silatra Digits CNN](https://www.kaggle.com/kartik2112/silatra-digits-cnn)
